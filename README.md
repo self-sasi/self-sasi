@@ -1,14 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sarthak S</h1>
-<h3 align="center">Computer Science Student at University of Calgary</h3>
+# Sarthak Singh
 
-- 👨‍💻 All of my projects are available at [https://sarthaksingh.in](https://sarthaksingh.in)
 
-- ⚡ Fun fact **I like shawarma**
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/@sasiUnloaded)](https://twitter.com/@sasiUnloaded)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/sarthaksingh0512/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/l3rigadier.l3lue/)](https://www.instagram.com/l3rigadier.l3lue)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarthaksinghwork@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://sarthaksingh.in)](https://sarthaksingh.in)
+[![Github](https://img.shields.io/github/followers/self-sasi?label=Follow&style=social)](https://github.com/self-sasi)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthaksingh0512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthaksingh0512/" height="30" width="40" /></a>
-</p>
+I'm a Computer Science student at the University of Calgary with a passion for software engineering and machine learning. Always eager to learn and create. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Also, a big fan of shawarma!
+
+### 🖥 Skills
+
+- Machine Learning
+- Software Development
+- Natural Language Processing
+- Data Structures and Algorithms
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-java-05122A?style=for-the-badge&logo=java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=C#&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django%20-05122A?style=for-the-badge&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django%20Rest%20Framework-05122A?style=for-the-badge&logo=Django-Rest-Framework&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=Angular&color=353535) ![Bootstrap](https://img.shields.io/badge/-.net-05122A?style=for-the-badge&logo=.net&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tensorflow-05122A?style=for-the-badge&logo=Tensorflow&color=353535) ![Bootstrap](https://img.shields.io/badge/-NLTK-05122A?style=for-the-badge&logo=NLTK&color=353535) ![Bootstrap](https://img.shields.io/badge/-scikit%20learn-05122A?style=for-the-badge&logo=scikit-learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&logo=Keras&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&logo=NumPy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=self-sasi&show_icons=true&locale=en&layout=compact" alt="self-sasi" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=self-sasi&" alt="self-sasi" />
+</div>
+
